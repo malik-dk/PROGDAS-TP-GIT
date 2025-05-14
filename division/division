@@ -1,0 +1,4 @@
+void Division(float firstNum, float secondNum){
+	int output = firstNum / secondNum;
+	return output;
+}
